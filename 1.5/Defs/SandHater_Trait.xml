@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TraitDef>
+    <defName>BBLK_SandHater</defName>
+    <commonality>0.8</commonality>
+    <degreeDatas>
+      <li>
+        <label>Sand Hater</label>
+        <description>{PAWN_nameDef} doesn't like sand. {PAWN_pronoun} thinks it's coarse and rough and irritating and it gets everywhere.</description>
+      </li>
+    </degreeDatas>
+  </TraitDef>
+
+  <ThoughtDef>
+    <defName>BBLK_SandHater</defName>
+    <workerClass>SandHaterTrait.ThoughtWorker_SandHater</workerClass>
+    <validWhileDespawned>false</validWhileDespawned>
+    <requiredTraits>
+      <li>BBLK_SandHater</li>
+    </requiredTraits>
+    <stages>
+      <li>
+        <label>i hate sand</label>
+        <description>I don't like sand. It's coarse and rough and irritating and it gets everywhere.</description>
+        <baseMoodEffect>-10</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  
+</Defs>

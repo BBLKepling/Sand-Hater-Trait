@@ -1,0 +1,4 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Sand Hater Trait\1.5\Assemblies\SandHaterTrait.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Sand Hater Trait\1.5\Source\SandHaterTrait\obj\Debug\SandHaterTrait.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Sand Hater Trait\1.5\Source\SandHaterTrait\obj\Debug\SandHaterTrait.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Sand Hater Trait\1.5\Source\SandHaterTrait\obj\Debug\SandHaterTrait.dll

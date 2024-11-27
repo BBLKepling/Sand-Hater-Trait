@@ -12,6 +12,5 @@ namespace SandHaterTrait
         }
 
         public static BiomeDef ExtremeDesert;
-        public static TerrainDef SoftSand;
     }
 }

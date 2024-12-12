@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+  <v1.5>
+    <li>/</li>
+    <li>1.5</li>
+    <li IfModActive="Nightmare.Sandstorms">1.5/Sandstorms</li>
+    <li IfModNotActive="Nightmare.Sandstorms">1.5/Vanilla</li>
+  </v1.5>
+</loadFolders>

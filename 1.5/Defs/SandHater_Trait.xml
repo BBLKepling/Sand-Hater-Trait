@@ -15,7 +15,7 @@
   <ThoughtDef>
     <defName>BBLK_SandHater</defName>
     <workerClass>SandHaterTrait.ThoughtWorker_SandHater</workerClass>
-    <validWhileDespawned>false</validWhileDespawned>
+    <validWhileDespawned>true</validWhileDespawned>
     <requiredTraits>
       <li>BBLK_SandHater</li>
     </requiredTraits>
@@ -23,7 +23,17 @@
       <li>
         <label>i hate sand</label>
         <description>I don't like sand. It's coarse and rough and irritating and it gets everywhere.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+      <li>
+        <label>i hate deserts</label>
+        <description>I don't like sand. It's coarse and rough and irritating and it gets everywhere.</description>
         <baseMoodEffect>-10</baseMoodEffect>
+      </li>
+      <li MayRequire="Nightmare.Sandstorms">
+        <label>i really hate sand</label>
+        <description>Are you serious? A sandstorm?</description>
+        <baseMoodEffect>-20</baseMoodEffect>
       </li>
     </stages>
   </ThoughtDef>

@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{5174869B-FBCF-4F8E-915F-165D26A0DCAC}|SandHaterTrait.csproj|solutionrelative:thoughtworker_sandhater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SandHaterTrait||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5174869B-FBCF-4F8E-915F-165D26A0DCAC}|SandHaterTrait.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Sand-Hater-Trait\\1.5\\Vanilla\\Source\\SandHaterTrait\\sandhatertraitdefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5174869B-FBCF-4F8E-915F-165D26A0DCAC}|SandHaterTrait.csproj|solutionrelative:sandhatertraitdefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SandHaterTrait||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,7 +25,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SandHaterTrait",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Sand-Hater-Trait\\1.5\\Vanilla\\Source\\SandHaterTrait\\SandHaterTrait.csproj",
               "RelativeDocumentMoniker": "SandHaterTrait.csproj",
@@ -36,7 +36,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "SandHaterTraitDefOf.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Sand-Hater-Trait\\1.5\\Vanilla\\Source\\SandHaterTrait\\SandHaterTraitDefOf.cs",
               "RelativeDocumentMoniker": "SandHaterTraitDefOf.cs",
@@ -44,7 +44,8 @@
               "RelativeToolTip": "SandHaterTraitDefOf.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T05:07:27.64Z"
+              "WhenOpened": "2024-11-23T05:07:27.64Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

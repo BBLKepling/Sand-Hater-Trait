@@ -36,6 +36,12 @@
         <baseMoodEffect>-20</baseMoodEffect>
       </li>
     </stages>
+    <modExtensions>
+      <li Class="TheForce_Standalone.Alignment.ThoughtAlignmentExtension" MayRequire="lee.theforce.standalone">
+        <alignment>Darkside</alignment>
+        <alignmentIncrease>0.05</alignmentIncrease>
+      </li>
+    </modExtensions>
   </ThoughtDef>
   
 </Defs>
